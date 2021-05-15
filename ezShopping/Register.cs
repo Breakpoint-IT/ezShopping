@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ezShopping
 {
-    public partial class Login : Form
+    public partial class Register : Form
     {
-        public Login()
+        public Register()
         {
             InitializeComponent();
         }
@@ -39,7 +39,7 @@ namespace ezShopping
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Register frm = new Register();
+            Login frm = new Login();
             frm.Show();
             this.Hide();
         }

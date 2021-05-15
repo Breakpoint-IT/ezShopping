@@ -113,6 +113,16 @@ namespace ezShopping.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap LogoGRAU {
+            get {
+                object obj = ResourceManager.GetObject("LogoGRAU", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mem2 {
             get {
                 object obj = ResourceManager.GetObject("mem2", resourceCulture);
