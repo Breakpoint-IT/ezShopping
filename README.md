@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-*
+* This project only includes the client files. The server-side files are not attached here.
 *
 *
 
