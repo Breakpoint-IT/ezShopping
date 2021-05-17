@@ -31,15 +31,13 @@
 ## About The Project
 
 * This project only includes the client files. The server-side files are not attached here.
-*
-*
+* This app is a multi-cross platform shopping list
 
 <!-- Upcoming features -->
 ## Upcoming features
 
-* 
-* 
-* 
+* Calendar function
+* Price list
 
 
 
